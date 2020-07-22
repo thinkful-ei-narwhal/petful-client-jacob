@@ -7,9 +7,9 @@
 ## server repo
 [https://github.com/thinkful-ei-narwhal/petful-jacob-server](https://github.com/thinkful-ei-narwhal/petful-jacob-server)
 
-##summary
+## summary
 
 This application mocks an adoption site and allows users to adopt pets. It utilizes a algorithmic queue to generate your spot in line.
 
-###technologies
+### technologies
 ReactJs, Express, NodeJs, HTML, CSS, 
