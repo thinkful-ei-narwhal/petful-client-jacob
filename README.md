@@ -13,3 +13,6 @@ This application mocks an adoption site and allows users to adopt pets. It utili
 
 ### technologies
 ReactJs, Express, NodeJs, HTML, CSS, 
+
+### team members
+This app was created solo
